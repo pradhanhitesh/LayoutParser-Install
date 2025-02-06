@@ -1,4 +1,4 @@
-# Layout Parser Installation Guide
+# Layout Parser Installation Guide [WSL2]
 
 This guide provides step-by-step instructions to set up `Layout-Parser`on Windows 11 WSL2 and implemention of [this](https://layout-parser.readthedocs.io/en/latest/example/deep_layout_parsing/index.html) tutorial. We will also install other dependencies like:
 - `Detectron2` : https://github.com/facebookresearch/detectron2 
@@ -43,7 +43,7 @@ git clone https://github.com/CiaranWelsh/PyCoTools.git
 cd PyCoTools
 ```
 - Modify `setup.py` and replace `sklearn` with `scikit-learn`
-- Modify `requirements.txt` and replace `scikit_learnn` with `scikit-learn`
+- Modify `requirements.txt` and replace `scikit_learn` with `scikit-learn`
 
 Then install the dependencies:
 ```bash
