@@ -12,6 +12,8 @@ The installation process also solves many issues:
 - Issue [#11040](https://github.com/tensorflow/models/issues/11040) : AttributeError: 'FreeTypeFont' object has no attribute 'getsize' (Pillow 10)
 - Issue [#161](https://github.com/Layout-Parser/layout-parser/issues/161) : TypeError: 'inplace' is an invalid keyword argument for sort()
 
+
+If the steps work out for you, consider ⭐ the repo.
 ## Installation Steps
 
 ### 1. Create and Activate a Virtual Environment
